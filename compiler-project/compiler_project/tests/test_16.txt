@@ -1,0 +1,6 @@
+int bar(int a, int b) {
+    return a + b;
+}
+int main() {
+    return bar(1, 2);
+}
